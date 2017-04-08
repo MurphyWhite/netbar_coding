@@ -2,7 +2,7 @@
 ## 编辑器
 1. sublime Text
 ## 代码管理
-2. git
+1. git
 ## 链接服务器
 1. Xshell
 2. ssh
